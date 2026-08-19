@@ -1,3 +1,57 @@
+# Python DSA
+
+A personal journey of learning **Data Structures and Algorithms using Python**.
+
+This repository contains my daily DSA practice, starting with recursion and progressing through backtracking and linked lists. Each coding session is organized by **topic → day → Python file**.
+
+---
+
+## 📊 DSA Progress
+
+| Statistic | Progress |
+|---|---:|
+| 🗓️ Coding Sessions | **15 recorded sessions** |
+| 📅 Learning Span | **25 calendar days** |
+| 💻 Total Problems | **51** |
+| 📈 Average Problems / Session | **3.27** |
+| 🧠 Topics | **3** |
+| 🚀 Current Topic | **Linked Lists** |
+
+### Topics
+
+- ✅ Recursion
+- ✅ Backtracking
+- 🟡 Linked Lists — In Progress
+
+### Major Problems Completed
+
+- 🏯 Tower of Hanoi
+- ♛ N-Queens
+- 🧩 Sudoku Solver
+- 🐀 Rat Maze
+
+---
+
+## 🗺️ DSA Journey
+
+```text
+Recursion
+   │
+   ├── DAY-1 → DAY-6
+   │
+   ▼
+Backtracking
+   │
+   ├── DAY-7 → DAY-14
+   │
+   ▼
+Linked Lists
+   │
+   └── DAY-17 → Current
+
+## 📁 Repository Structure
+
+```text
 Python-DSA/
 │
 ├── Recursion/
@@ -86,23 +140,3 @@ Python-DSA/
 │       └── basic_linked_list.py
 │
 └── README.md
-
-DSA Progress
-│
-├── Coding Days: 15 recorded sessions
-├── Learning Span: 25 calendar days
-├── Total Problems: 52
-├── Average Problems / Session: 3.47
-│
-├── Topics Completed:
-│   ├── Recursion
-│   ├── Backtracking
-│   └── Linked Lists (Started)
-│
-├── Major Problems Completed:
-│   ├── Tower of Hanoi
-│   ├── N-Queens
-│   ├── Sudoku Solver
-│   └── Rat Maze
-│
-└── Current Topic: Linked Lists
