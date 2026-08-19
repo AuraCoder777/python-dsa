@@ -136,7 +136,7 @@ Python-DSA/
 │
 ├── Linked-Lists/
 │   │
-│   └── DAY-17_2026-08-17/
+│   └── DAY-15_2026-08-17/
 │       └── basic_linked_list.py
 │
 └── README.md
