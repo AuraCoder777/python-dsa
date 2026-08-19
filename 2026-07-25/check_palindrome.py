@@ -1,3 +1,4 @@
+#Check whether the number is a palindrome
 def rev(n,result=0):
     if n == 0:
         return result

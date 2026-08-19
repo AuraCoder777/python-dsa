@@ -1,3 +1,4 @@
+#Count occurrence of zeroes in a number
 def count_zeroes(n):
     if n == 0:
         return 0

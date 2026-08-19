@@ -1,3 +1,4 @@
+#Print numbers from n to 1 ~ Countdown
 def countdown(n):
     if n == 0:              # Base Case
         print("GO!")
@@ -7,5 +8,3 @@ def countdown(n):
     countdown(n - 1)        # Recursive Case
 
 countdown(5)
-
-#TAIL RECURSION

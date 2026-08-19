@@ -1,3 +1,4 @@
+#Digital root using recursion
 def digital_root(n,s=0):
     if n==0:
         if s<10:

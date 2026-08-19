@@ -1,3 +1,4 @@
+#Check sorted list
 def is_sorted(l):
     if len(l)==1:
         return True

@@ -1,3 +1,4 @@
+#Count occurrence of a character in a string
 def count_occ(s,char):
     if s=="":
         return 0
@@ -5,6 +6,6 @@ def count_occ(s,char):
         return 1 + count_occ(s[1:],char)
     return count_occ(s[1:],char)
 
-s="hala madrid"
+s="Hala Madrid"
 char="a"
 print(count_occ(s,char))

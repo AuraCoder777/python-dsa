@@ -1,3 +1,4 @@
+#Reverse a string
 def rev_str(s):
     if s=="":
         return ""

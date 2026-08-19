@@ -1,3 +1,4 @@
+#Power of a number
 def pow(x,n):
     if n == 0:
         return 1

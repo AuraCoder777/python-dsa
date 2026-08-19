@@ -1,4 +1,5 @@
-def even(n):                               #Print all even numbers from N to 1 using recursion
+#Print even numbers from N to 1 
+def even(n):                               
     if n == 0:
         return
     

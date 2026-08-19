@@ -1,3 +1,4 @@
+#Reverse a number
 def rev(n,a):
     b=a-1
     if b == 0:                                     # a=1

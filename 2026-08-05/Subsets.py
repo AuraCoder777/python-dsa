@@ -1,3 +1,4 @@
+#Subsets of a list
 def subsets(l,current=[]):
     if l==[]:
         print(current)

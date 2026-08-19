@@ -1,3 +1,4 @@
+#Sum of squares from n to 1
 def sum_of_squares(n):
     if n == 0:
         return 0

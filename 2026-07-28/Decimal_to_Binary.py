@@ -1,3 +1,4 @@
+#Convert Decimal to Binary number
 def convert(d,b=""):
     
     if d == 1:

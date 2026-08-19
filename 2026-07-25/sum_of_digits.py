@@ -1,3 +1,4 @@
+#Sum of digits of a number
 def sum_of_digits(n,a):
     if n == 0:
         return 0

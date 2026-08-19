@@ -1,3 +1,4 @@
+#Print odd numbers from 1 to n
 def odd(n):
     if n == 0 :
         return

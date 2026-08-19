@@ -1,3 +1,4 @@
+#Digital Multiplication of a number
 def recursive_digit_multiply(n,prod=1):
     if n==0:
         if prod<10:

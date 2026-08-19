@@ -1,3 +1,4 @@
+#Multiplication table 
 def mul(a,b):
     if b==0:
         return

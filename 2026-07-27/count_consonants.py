@@ -1,3 +1,4 @@
+#Count number of consonants
 def count_consonants(s):
     if s=="":
         return 0
@@ -5,6 +6,6 @@ def count_consonants(s):
         return 1 + count_consonants(s[1:])
     return count_consonants(s[1:])
 
-s="ABCCD" 
+s="Look Behind You!" 
 print(count_consonants(s))
         

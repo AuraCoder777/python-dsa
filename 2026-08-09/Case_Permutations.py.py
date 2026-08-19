@@ -1,3 +1,4 @@
+#Case Permutations of a string
 def case_permutations(s,current=""):
     if len(s)==0:
         print(current)

@@ -1,3 +1,4 @@
+#Cube of a number
 def cube(n):
     if n==0:
         return

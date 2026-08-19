@@ -1,3 +1,4 @@
+#Count vowels of a string
 def count_vowels(s):
     if s == "":
         return 0

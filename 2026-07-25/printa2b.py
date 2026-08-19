@@ -1,3 +1,4 @@
+#Display numbers from a to b
 def a2b(a,b):
     if a > b:
         return 

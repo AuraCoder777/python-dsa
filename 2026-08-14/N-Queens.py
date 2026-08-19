@@ -1,3 +1,4 @@
+#N-Queens
 n = 4
 queens = []
 

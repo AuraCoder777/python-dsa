@@ -1,3 +1,4 @@
+#Permutation of a string
 def permu(s, current=""):
     if len(s) == 0:
         print(current)

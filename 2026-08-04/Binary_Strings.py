@@ -1,3 +1,4 @@
+#Print binary strings with length n
 def binary(n,current=""):
     if len(current)==n:
         print(current)
